@@ -1,4 +1,4 @@
-<h1>Hi, I'm Vishwas! <br/><a href="https://github.com/vishwasgautam">Cybersecurity Enthusiast</a>, <a href="https://www.linkedin.com/in/vishwasgautam">Cybersecurity Professional</a>, <a href="https://www.youtube.com/@VishwasGautam-j3r">YouTuber</a></h1>
+<h1>Hi, I'm Vishwas! <br/><a href="https://github.com/vishwasgautam">Cybersecurity Enthusiast</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
